@@ -1,14 +1,2 @@
-<!doctype html> 
-<html> 
 
-<head> 
-<title>Personal Website </title> 
-</head> 
-
-<body> 
-<h1> MY SELF. </h1> 
-<p>My name is Tahmid. I am 6 years old. My brother's name is Dihan. My father's name is Abdul Hamid. My mother's name is Bithi. I go to a school. I study in children's class. </p> 
-
-</body> 
-
-</html>
+https://user-images.githubusercontent.com/98394377/154725407-38880e92-a466-4f5e-89b2-2e8fb1153405.jpg
